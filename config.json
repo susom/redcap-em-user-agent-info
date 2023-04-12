@@ -9,6 +9,8 @@
     { "0.1": "Initial" }
   ],
 
+  "framework-version": 12,
+
   "authors": [
     {
       "name": "Andrew Martin",
@@ -20,10 +22,6 @@
       "email": "MainBP@EVMS.EDU",
       "institution": "Eastern Virginia Medical School"
     }
-  ],
-
-  "permissions": [
-    "redcap_survey_page_top"
   ],
 
   "no-auth-pages": [
